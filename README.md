@@ -1,2 +1,2 @@
 # All-of-GalaxyUmika-s-Mod-Files
-This includes (almost) all of my mod files I made. Those require NotITG to run, though.
+Includes my files I've made for NotITG, be it individual, collabs, or part of a jam
